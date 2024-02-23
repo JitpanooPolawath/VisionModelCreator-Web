@@ -7,7 +7,7 @@
 
  The current code is still complete, with a fix need to it for a seamless connection to both frontend and backend.
 
- #Task needs to accomplish
+ # Task-needs-to-ccomplish
 
  1) somehow make the React frontend connect with the AWS EC2 dynamic public IP address.
  2) for some reason the vision model won't get created in AWS (possibility - the venv is not running so the import is not working)
